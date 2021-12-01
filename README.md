@@ -1,8 +1,6 @@
 # Seeking Salient Facial Regions 
 
-* Xingxun Jiang, Yuan Zong, Wenming Zheng, "[Seeking Salient Facial Regions for Cross-Database Micro-Expression Recognition](https://arxiv.org/abs/2111.15361), in arXiv"*
-
-"Seeking Salient Facial Regions for Cross-Database Micro-Expression Recognition", in arXiv
+*Xingxun Jiang, Yuan Zong, Wenming Zheng, "[Seeking Salient Facial Regions for Cross-Database Micro-Expression Recognition](https://arxiv.org/abs/2111.15361), in arXiv"*
 
 ## Requirements 
 
