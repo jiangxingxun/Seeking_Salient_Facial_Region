@@ -1,6 +1,6 @@
 # Seeking Salient Facial Regions 
 
-*Xingxun Jiang, Yuan Zong, Wenming Zheng, "[Seeking Salient Facial Regions for Cross-Database Micro-Expression Recognition](https://arxiv.org/abs/2111.15361)", in arXiv*
+*Xingxun Jiang, Yuan Zong, Wenming Zheng, Jiateng Liu, Mengting Wei, "[Seeking Salient Facial Regions for Cross-Database Micro-Expression Recognition](https://arxiv.org/abs/2111.15361)", in ICRP'22*
 
 ## Requirements 
 
@@ -14,10 +14,13 @@
 ## Citation
 
 ```txt
-@article{jiang2021seeking,
+@inproceedings{jiang2022seeking,
   title={Seeking Salient Facial Regions for Cross-Database Micro-Expression Recognition},
-  author={Jiang, Xingxun and Zong, Yuan and Zheng, Wenming},
-  journal={arXiv preprint arXiv:2111.15361},
-  year={2021}
+  author={Jiang, Xingxun and Zong, Yuan and Zheng, Wenming and Liu, Jiateng and Wei, Mengting},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)},
+  pages={xxxx--xxxx},
+  year={2022},
+  organization={IEEE}
 }
+
 ```
